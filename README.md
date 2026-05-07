@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Abhishek Kumar
-
 🚀 **Full-Stack Developer** | MERN Stack Specialist | Open to Collaboration
-
 I build scalable, high-performance web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I’m passionate about clean architecture, real-world problem solving, and continuous learning.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -77,13 +74,20 @@ I build scalable, high-performance web applications using the **MERN stack** (Mo
 - Freelance opportunities
 
 ---
-
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrabhishekkumar.netlify.app-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white)](https://mrabhishekkumar.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_abhishekkumar20_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekkumar07ak/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@abcdpe-a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarabhishek44279@gmail.com)
+
+---
+## 🏆 GitHub Achievements
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF4500?style=for-the-badge&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-1E90FF?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
